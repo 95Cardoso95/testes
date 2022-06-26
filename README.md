@@ -1,3 +1,3 @@
 # testes
 
-REDAME DE TESTE
+README DE TESTE
