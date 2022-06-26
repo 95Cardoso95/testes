@@ -2,4 +2,4 @@
 
 README DE TESTE
 
-adicionando o comando: git init
+adicionando o comando: git status
